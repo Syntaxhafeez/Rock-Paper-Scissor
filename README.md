@@ -1,5 +1,6 @@
 # Rock-Paper-Scissor
 
+My first coding project
 A simple Rock-Paper-Scissor game where users can play against the computer and track their scores.
 
 ## 🎮 Features
